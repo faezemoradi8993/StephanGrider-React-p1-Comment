@@ -1,6 +1,4 @@
 import React from 'react';
-
-
 const ApprovalCard = (props) => {
     return (
         <div class="ui cards">
@@ -16,9 +14,6 @@ const ApprovalCard = (props) => {
                 </div>
             </div>
         </div>
-
-
-
     );
 }
 

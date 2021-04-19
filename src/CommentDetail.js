@@ -1,10 +1,6 @@
 import React from 'react';
-
 const Commentdetail = props => {
     return (
-
-
-
         <div class="comment">
             <a class="avatar">
                 <img src={props.avatar} />
@@ -19,8 +15,6 @@ const Commentdetail = props => {
                 </div>
             </div>
         </div>
-
     );
 }
-
 export default Commentdetail;
